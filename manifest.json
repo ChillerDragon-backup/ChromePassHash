@@ -15,6 +15,7 @@
         "other/jquery/jquery-3.3.1.min.js",
         "other/sjcl/sjcl.js",
         "lib.js",
+        "keypresses.js",
         "content.js"
       ]
     }
